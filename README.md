@@ -1,7 +1,7 @@
-# Welcome to the TPEO Spring 2024 Javascript Course!
+# Welcome to the TPEO Spring 2026 Javascript Course!
 
 # Finding Homework/Class Resources
-To see our class recordings and slides, refer to our notion here: [https://amber-toad-552.notion.site/Introductory-JavaScript-2025-19702dbde1e080d79c92f725d74c40e1](https://www.notion.so/texas-product-engineering-organization/Introductory-JavaScript-2026-204af3f6e92a8174b8d8d3328fd59e0b) 
+To see our class recordings and slides, refer to our notion here: https://www.notion.so/texas-product-engineering-organization/Introductory-JavaScript-2026-204af3f6e92a8174b8d8d3328fd59e0b 
 Refer to class slides for homework guidelines. 
 Comments on demo/practice/hw files will often detail the programming tasks. 
 
